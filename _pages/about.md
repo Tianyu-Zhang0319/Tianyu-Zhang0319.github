@@ -26,4 +26,4 @@ Selected Publications
 
 For more info
 ------
-More publications see my [GoogleScholar](https://scholar.google.com/citations?user=cDGQbLsAAAAJ&hl=zh-CN)
+More publications see my [GoogleScholar](https://scholar.google.com/citations?user=cDGQbLsAAAAJ&hl=zh-CN){:target="_blank"}
