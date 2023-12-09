@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I was born and raised in China. After graduating from South China University of Technology as a graduate student in 2019, I began to study for a doctorate at Maastricht University in the Netherlands. I am currently engaged in scientific research in [Regina Beets-Tan's](https://www.nki.nl/research/research-groups/regina-beets-tan/){:target="_blank"} group in the Radiology Department of the [Netherlands Cancer Institute](https://www.nki.nl/){:target="_blank"}, and [Ritse Mann's](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"} Breast Imaging Group (BIG) in [RadboudUMC](https://www.radboudumc.nl/en/patient-care){:target="_blank"}. In early 2023, under the leadership of Ritse Mann, I participated in the ODELIA project as a postdoctoral researcher.
+After graduating from South China University of Technology as a graduate student in 2019, I began to study for a doctorate at Maastricht University in the Netherlands. I am currently engaged in scientific research in [Regina Beets-Tan's](https://www.nki.nl/research/research-groups/regina-beets-tan/){:target="_blank"} group in the Radiology Department of the [Netherlands Cancer Institute](https://www.nki.nl/){:target="_blank"}, and [Ritse Mann's](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"} Breast Imaging Group (BIG) in [RadboudUMC](https://www.radboudumc.nl/en/patient-care){:target="_blank"}. In early 2023, under the leadership of Ritse Mann, I participated in the ODELIA project as a postdoctoral researcher.
 
 
 Research Interests
