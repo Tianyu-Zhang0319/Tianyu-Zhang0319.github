@@ -16,13 +16,11 @@ My research focuses on deep learning on breast imaging, and the development and 
 
 Selected Publications
 ======
-*    Tianyu Zhang, Tao Tan, Xin Wang, Yuan Gao, Luyi Han, Luuk Balkenende, Anna D’Angelo, Lingyun Bao, Hugo M. Horlings, Jonas Teuwen, Regina G. H. Beets-Tan, Ritse M. Mann. RadioLOGIC: A healthcare model for processing electronic health records and decision-making in breast disease. Cell Reports Medicine, 2023, 4(8).
-*    Tianyu Zhang, Tao Tan, Riccardo Samperna, Zhang Li, Yuan Gao, Xin Wang, Luyi Han, Qifeng Yu, Regina G. H. Beets-Tan, Ritse M. Mann. Radiomics and Artificial Intelligence in Breast Imaging: A Survey. Artificial Intelligence Review, 2023, 1-36.
-*    Tianyu Zhang, Tao Tan, Luyi Han, Linda Appelman, Jeroen Veltman, Ronni Wessels, Katya Duvivier, Claudette Loo, Yuan Gao, Xin Wang, Hugo Horlings, Regina Beets-Tan,  Ritse Mann. Predicting breast cancer types on and beyond molecular level in a multi-modal fashion. NPJ Breast Cancer, 2023, 9(1): 16.
-*    Tianyu Zhang, Ritse Mann. Contrast-enhanced Mammography: Better with AI? European Radiology, 2023, 1-3.
-*    Tianyu Zhang, Luyi Han, Xin Wang, Yuan Gao, Chunyao Lu, Jonas Teuwen, Regina Beets-Tan, Tao Tan, Ritse Mann. Synthesis of contrast-enhanced breast MRI using multi-b-value DWI-based multi-sequence fusion network. MICCAI, 2023.
-
-
+*    **Tianyu Zhang**, Tao Tan, Xin Wang, Yuan Gao, Luyi Han, Luuk Balkenende, Anna D’Angelo, Lingyun Bao, Hugo M. Horlings, Jonas Teuwen, Regina G. H. Beets-Tan, Ritse M. Mann. RadioLOGIC: A healthcare model for processing electronic health records and decision-making in breast disease. Cell Reports Medicine, 2023, 4(8).
+*    **Tianyu Zhang**, Tao Tan, Riccardo Samperna, Zhang Li, Yuan Gao, Xin Wang, Luyi Han, Qifeng Yu, Regina G. H. Beets-Tan, Ritse M. Mann. Radiomics and Artificial Intelligence in Breast Imaging: A Survey. Artificial Intelligence Review, 2023, 1-36.
+*    **Tianyu Zhang**, Tao Tan, Luyi Han, Linda Appelman, Jeroen Veltman, Ronni Wessels, Katya Duvivier, Claudette Loo, Yuan Gao, Xin Wang, Hugo Horlings, Regina Beets-Tan,  Ritse Mann. Predicting breast cancer types on and beyond molecular level in a multi-modal fashion. NPJ Breast Cancer, 2023, 9(1): 16.
+*    **Tianyu Zhang**, Luyi Han, Xin Wang, Yuan Gao, Chunyao Lu, Jonas Teuwen, Regina Beets-Tan, Tao Tan, Ritse Mann. Synthesis of contrast-enhanced breast MRI using multi-b-value DWI-based multi-sequence fusion network. MICCAI, 2023.
+*    **Tianyu Zhang**, Ritse Mann. Contrast-enhanced Mammography: Better with AI? European Radiology, 2023, 1-3.
 
 For more info
 ------
